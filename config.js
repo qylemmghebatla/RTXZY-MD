@@ -6,29 +6,29 @@ untuk lainya saran jangan
 di ubah bre nanti eror]]*/
 
 /*global owner*/
-global.owner = ['6281395861695']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
+global.owner = ['60177302593']  
+global.mods = ['60177302593'] 
+global.prems = ['60177302593']
 /*Nomor Owner & payment*/
-global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
-global.mail = 'tioclkp02@gmail.com' //enter your email 🗿
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
+global.nameowner = 'QYLE'
+global.numberowner = '60177302593' 
+global.mail = 'testingwibusoft@gmail.com' //enter your email 🗿
+global.dana = 'pm owner'
+global.pulsa = 'pm owner'
+global.gopay = 'pm owner'
 /*Nama Bot & Grouplink*/
-global.namebot = 'RTXZY-MD'
-global.gc = 'https://chat.whatsapp.com/D6BZVRSymWaFU28t2lxaO0'
+global.namebot = 'QYLEBOTZ'
+global.gc = 'https://chat.whatsapp.com/J4ASESWmmzx0d0ovdrZo0Y'
 global.web = 'https://github.com/BOTCAHX'
-global.instagram = 'https://instagram.com/prm2.0'
+global.instagram = 'https://instagram.com/jstme._____'
 /*global wm*/
 global.lolkey = 'rey2k22'
 global.zenzkey = 'BagasPrdn'
-global.wm = '© R-TXZY-MD'
+global.wm = '© QYLEBOTZ'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
-global.wm4 = '© BOT RTXZY'
+global.wm2 = '⫹⫺ QYLEBOTZ'
+global.wm3 = '© QYLEBOTZ'
+global.wm4 = '© BOT QYLE'
 global.fla = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text='
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
